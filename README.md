@@ -6,10 +6,18 @@ Live demo: Paste any job description and get an instant scam probability score w
 
 
 
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/2d73eddf-d7a5-4458-a9f6-0c5d1031bc48" />
+
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/118cd25f-b409-44a0-9889-be8fa5e03966" />
+
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/7527aa2b-e531-4748-972c-d1dcd368a83c" />
+
+<img width="1909" height="965" alt="image" src="https://github.com/user-attachments/assets/d5445630-a899-4810-b3b6-fa5ae7d40c33" />
+
+
 ## The Problem
 
 Every day, thousands of fake recruiters flood platforms like LinkedIn with fraudulent job listings. These scams harvest personal data, extract money, and distribute malware — and they're nearly impossible to detect manually at scale. This project builds an automated system to catch them before they reach victims.
-
 
 
 ## How It Works
