@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (too large for GitHub)
+models/*.pkl
+
+# Keep data folder structure but ignore large files
+data/raw/*.csv
+data/processed/*.csv
